@@ -25,7 +25,7 @@ obiwan@starwars.com			obiwan
 luke@starwars.com			luke
 padme@starwars.com			padme
 anakin@starwars.com			anakin
-palpatine@starwars.com		palpatine
+palpatine@starwars.com			palpatine
 han@starwars.com			han
 leia@starwars.com			leia
 yoda@starwars.com			yoda

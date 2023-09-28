@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
 
 Η βάση δεδομένων περιέχει τους πίνακες:
-	-> brands (εταιρείες)
-	-> cateogries (κατηγορίες προϊόντων)
-	-> orders (παραγγελίες)
-	-> order_contents (περιεχόμενα παραγγελιών)
-	-> products (προϊόντα)
-	-> users (χρήστες)
+- brands (εταιρείες)
+- cateogries (κατηγορίες προϊόντων)
+- orders (παραγγελίες)
+- order_contents (περιεχόμενα παραγγελιών)
+- products (προϊόντα)
+- users (χρήστες)
 Τα αρχικά δεδομένα για τις δοκιμές εισήχθησαν με κώδικα στην phpMyAdmin, στη συνέχεια μέσω των φορμών που θα διαχειρίζονται οι admins
 
 ------------------------------------------------------------------------
@@ -16,13 +16,13 @@
 ------------------------------------------------------------------------
 Φτιάχτηκαν κάποια προφίλ ως τεστ για τις διάφορες λειτουργίες του site (πχ login) στα οποία μπορείτε να έχετε πρόσβαση ως εξής:
 
-Email						Password
-obiwan@starwars.com			obiwan
-luke@starwars.com			luke
-padme@starwars.com			padme
-anakin@starwars.com			anakin
-palpatine@starwars.com			palpatine
-han@starwars.com			han
-leia@starwars.com			leia
-yoda@starwars.com			yoda
-------------------------------------------------------------------------
+| Email      | Password |
+| ----------- | ----------- |
+| obiwan@starwars.com      | obiwan       |
+| luke@starwars.com      | luke       |
+| padme@starwars.com      | padme       |
+| anakin@starwars.com      | anakin       |
+| palpatine@starwars.com      | palpatine       |
+| han@starwars.com      | han       |
+| leia@starwars.com      | leia       |
+| yoda@starwars.com      | yoda       |
